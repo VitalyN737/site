@@ -34,6 +34,11 @@ body {
     font-size: 24px;
 }
 
+.sidebar h2 a {
+  color: #fff;
+  text-decoration: none;
+}
+
 .title-line-top {
   width: 100%;
   border-top: 1px solid #555;
